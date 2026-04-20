@@ -1,1 +1,1 @@
-# coding-agent-skills
+# coding-agent-settings

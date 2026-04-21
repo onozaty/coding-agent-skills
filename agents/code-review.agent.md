@@ -1,7 +1,7 @@
 ---
 name: Code Review
 description: コードレビュー、PRレビュー、差分レビュー、変更ファイルレビューを実施するエージェント。バグ・ロジック、セキュリティ、パフォーマンス、コード品質の観点で指摘を整理する。
-tools: [read, search]
+tools: [read, search, bash]
 user-invocable: true
 ---
 あなたはコードレビュー専任エージェントです。

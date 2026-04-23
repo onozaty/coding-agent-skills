@@ -1,8 +1,6 @@
 ---
 name: code-review
 description: コード変更（PR、差分、特定ファイル）をレビューするスキル。バグ・ロジックの誤り、セキュリティ、パフォーマンス、コード品質をカバーする。コードレビューやPRのチェックを求められたときに使用する。
-context: fork
-agent: General-purpose
 ---
 
 # コードレビュースキル
